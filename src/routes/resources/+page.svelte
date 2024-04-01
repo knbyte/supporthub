@@ -7,20 +7,6 @@
 		  <div class="about-container">
 			<p>The resource library is currently under development.<br>
         Thank you for your patience!<br></p></div>
-<!--		<h1>Resources</h1>
-		<p>Here are a few of the previously developed resources while the others are still in progress!<br><br></p>
-            <div>
-                <ul class="list">
-                    <li><a href="./housing">Housing</a></li>
-                    <br>
-                    <li><a href="./jobhunting">Job Hunting</a></li>
-                    <br>
-                    <li><a href="./mentalhealth">Mental Health</a></li>
-                    <br>
-                    <li><a href="/x">x</a></li>
-                    <br>   
-                </ul>
-            </div>-->
 		  	<style>
 /********************************  GOOGLE FONTS  ********************************/
 
